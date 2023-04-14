@@ -51,6 +51,3 @@ fork the repository and create a pull request with your changes.
 
 ## Acknowledgments
 This project was inspired by tutorial series on [EdRoh's](https://www.youtube.com/@EdRohDev) channel.
-
-## Contact
-If you have any questions or comments about the Fullstack-MERN-Social-Network project, please feel free to contact me at [email address].
