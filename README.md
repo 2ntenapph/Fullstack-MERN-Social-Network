@@ -23,10 +23,11 @@ bash
 
 `npm install`
 	
-3. Create a .env file in the root directory and add the following environment variables:
+3. Create a .env file in the server directory and add the following environment variables:
 ```
 MONGO_URI=<your_mongoDB_URI>
 JWT_SECRET=<your_jwt_secret>
+PORT=3001
 ```	
 Replace <your_mongoDB_URI> with your MongoDB connection string and <your_jwt_secret> with a secret string for JSON Web Tokens.
 
